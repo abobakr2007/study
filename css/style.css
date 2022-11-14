@@ -1,23 +1,41 @@
-.title{
-    font-size: auto;
-    font-weight: bold;
-    color: #000;
-    margin: auto;
-    padding: 0;
-    text-align: center;
-}
-button{
-   text-align: center;
-}
-.center{
-    text-align: center;
-
-}
-body{
-    background-color: aqua;
-}
-.space{
-    margin: 0;
-    padding: 0;
-    height: 30vh;
-}
+        .title {
+            font-size: auto;
+            font-weight: bold;
+            color: #000;
+            margin: auto;
+            padding: 0;
+            text-align: center;
+        }
+        
+        button {
+            text-align: center;
+        }
+        
+        .center {
+            text-align: center;
+        }
+        
+        body {
+            background-color: blueviolet;
+        }
+        
+        .space {
+            margin: 0;
+            padding: 0;
+            height: 30vh;
+        }
+        
+        p {
+            font-weight: bolder;
+            color: white;
+            font-size: large;
+            margin-top: 20px;
+        }
+        
+        .lol {
+            width: 90px;
+        }
+        
+        .spalce {
+            height: 50px;
+        }
